@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Sadiq! 👋
 
-<!--
-**sadiqhussain13/sadiqhussain13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Web Developer and AI Specialist passionate about pushing the boundaries of technology. With expertise in web development and AI, I aim to drive impactful solutions for organizations.
 
-Here are some ideas to get you started:
+🎓 **Education**: 
+- B.Tech. in Computer Engineering from Bharati Vidyapeeth College of Engineering, Pune.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Tech Stack**:
+- **Languages**: JavaScript, Python, HTML, CSS
+- **Frameworks/Libraries**: React, Node.js, TensorFlow, Flask
+- **Databases**: MongoDB, MySQL
+- **Tools**: Git, Docker, VS Code, Jupyter Notebook
+
+📈 **GitHub Stats**:
+[![Sadiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiqhussain13)](https://github.com/sadiqhussain13/github-readme-stats)
